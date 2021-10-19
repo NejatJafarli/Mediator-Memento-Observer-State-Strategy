@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObServer", "ObServer\ObServ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{B733946A-C766-4497-9FA1-DB29887E4F5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "State\State.csproj", "{63131146-DDBC-4165-BC1A-8AB077493A5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B733946A-C766-4497-9FA1-DB29887E4F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B733946A-C766-4497-9FA1-DB29887E4F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B733946A-C766-4497-9FA1-DB29887E4F5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63131146-DDBC-4165-BC1A-8AB077493A5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63131146-DDBC-4165-BC1A-8AB077493A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63131146-DDBC-4165-BC1A-8AB077493A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63131146-DDBC-4165-BC1A-8AB077493A5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
